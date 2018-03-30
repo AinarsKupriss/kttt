@@ -1,0 +1,31 @@
+.mainbox{
+	background-color: orange;
+}
+
+.left{
+	background-color: red;
+}
+.right{
+	background-color: yellow;
+}
+
+.main{
+	background-color: lightskyblue;
+}
+
+.a{
+	background-color: gray;
+}
+.b{
+	background-color: rebeccapurple;
+}
+.c{
+	background-color: rosybrown;
+}
+.d{
+	background-color: royalblue;
+}
+
+.navbar{
+	border-radius: 0;
+}
