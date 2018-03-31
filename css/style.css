@@ -1,20 +1,20 @@
 .mainbox{
-	background-color: orange;
+	background-color: whitesmoke;
 }
 
 .left{
-	background-color: red;
+	background-color: whitesmoke;
 }
 .right{
-	background-color: yellow;
+	background-color: whitesmoke;
 }
 
 .main{
-	background-color: lightskyblue;
+	background-color: white;
 }
 
 .bottom{
-	background-color: blueviolet;
+	background-color: whitesmoke;
 }
 
 
@@ -24,4 +24,8 @@
 }
 .row{
 	overflow: hidden;
+}
+.carousel-caption {
+    left: 50%;
+    color: #0f0f0f;
 }
