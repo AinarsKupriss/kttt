@@ -13,19 +13,15 @@
 	background-color: lightskyblue;
 }
 
-.a{
-	background-color: gray;
-}
-.b{
-	background-color: rebeccapurple;
-}
-.c{
-	background-color: rosybrown;
-}
-.d{
-	background-color: royalblue;
+.bottom{
+	background-color: blueviolet;
 }
 
-.navbar{
-	border-radius: 0;
+
+[class*="col-"]{
+	margin-bottom: -99999px;
+	padding-bottom: 99999px;
+}
+.row{
+	overflow: hidden;
 }
